@@ -23,7 +23,6 @@ Live Site View [Live] ( https://github.com/Hawa-Evakali/Pizza_Palace.git)
 HTML 
 CSS 
 JAVASCRIPT 
-BOOTSRAP 
 
 GIT Contact information You can reach me through my E-mail address
 
