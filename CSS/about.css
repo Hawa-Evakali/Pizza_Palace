@@ -4,7 +4,7 @@
     box-sizing: border-box;
   }
   body{
-    background-image: url(../IMAGES/background.jpg);
+    background-image: url(https://i.pinimg.com/564x/48/4e/1e/484e1eb1dc175cf495ad7391847ede95.jpg);
     background-repeat: no-repeat;
     background-size:cover;
     
@@ -19,7 +19,7 @@
   .container1{
     display: flex;
     height: 590px;
-    width: 1000px;
+    width: 100px;
     align-items: center;
     justify-content: center;
     margin: 1rem 18rem;
