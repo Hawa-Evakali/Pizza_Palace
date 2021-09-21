@@ -20,7 +20,7 @@ BDD
 Live Site View [Live] ( https://github.com/Hawa-Evakali/Pizza_Palace.git)
 
 ## Technologies Used
-HTML 
+1. HTML 
 CSS 
 JAVASCRIPT 
 
