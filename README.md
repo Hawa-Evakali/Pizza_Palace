@@ -22,7 +22,7 @@ Live Site View [Live] ( https://github.com/Hawa-Evakali/Pizza_Palace.git)
 ## Technologies Used
 1. HTML 
 2. CSS 
-JAVASCRIPT 
+3. AVASCRIPT 
 
 GIT Contact information You can reach me through my E-mail address
 
